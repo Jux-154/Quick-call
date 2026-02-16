@@ -1,0 +1,8 @@
+{
+  "name": "GeminiRTC - Pro Video Calling",
+  "description": "A high-performance WebRTC video calling application with screen sharing, persistent user IDs, and integrated Gemini AI for meeting assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
